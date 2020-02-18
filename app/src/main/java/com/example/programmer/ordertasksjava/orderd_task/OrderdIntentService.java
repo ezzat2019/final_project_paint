@@ -7,7 +7,7 @@ import android.content.Intent;
 
 
 public class OrderdIntentService extends IntentService {
-int y=5;
+int y=20;
 
     public OrderdIntentService() {
         super("OrderdIntentService");
