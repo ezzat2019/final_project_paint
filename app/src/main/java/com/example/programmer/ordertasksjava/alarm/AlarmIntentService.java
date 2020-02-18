@@ -14,8 +14,7 @@ import androidx.annotation.RequiresApi;
 
 public class AlarmIntentService extends IntentService {
 
-// todo aliaa
-    // هندل الباسورد
+
     public AlarmIntentService() {
         super("AlarmIntentService");
     }
