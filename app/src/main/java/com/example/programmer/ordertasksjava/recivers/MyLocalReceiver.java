@@ -8,9 +8,11 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 public class MyLocalReceiver extends BroadcastReceiver {
 
+
+
     @Override
     public void onReceive(Context context, Intent intent) {
-        // TODO: This method is called when the BroadcastReceiver is receiving
+
         // an Intent broadcast.
      int x=intent.getIntExtra("num",-1);
      Intent intent1=new Intent();
