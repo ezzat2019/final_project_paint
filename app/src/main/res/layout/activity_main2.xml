@@ -12,7 +12,8 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-
+<!-- todo aliaa t2 -->
+<!--            غير اسم الزارار وخليه اختيار-->
             <Button
                 android:id="@+id/choose"
                 android:layout_width="wrap_content"

@@ -33,6 +33,9 @@ import com.google.firebase.ml.vision.text.FirebaseVisionTextRecognizer;
 import java.io.IOException;
 
 public class Main2Activity extends AppCompatActivity {
+
+    // todo aliaa t1
+    // اعملى كذا اى حاجه
     private ImageView imageView;
     private TextView textView;
 

@@ -24,7 +24,8 @@ import androidx.core.app.NotificationCompat;
  */
 public class MyIntentService extends IntentService {
 
-
+// todo omar s t1
+    // خلى السيرفز دى تعمل كذا
     public MyIntentService() {
         super("MyIntentService");
     }

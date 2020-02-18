@@ -13,7 +13,8 @@ import androidx.annotation.RequiresApi;
 
 
 public class AlarmIntentService extends IntentService {
-
+// todo ezzat t1
+    // اعمل اتصال الاك اند
 
     public AlarmIntentService() {
         super("AlarmIntentService");

@@ -12,7 +12,8 @@ import androidx.work.WorkerParameters;
 
 public class MyWorker extends Worker {
 
-
+// todo ezzat t2
+    //اعمل متغيرات لاستقبال الداتا
     public MyWorker(@NonNull Context context, @NonNull WorkerParameters workerParams) {
         super(context, workerParams);
     }
