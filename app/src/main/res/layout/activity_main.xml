@@ -51,7 +51,10 @@
         android:layout_marginStart="198dp"
         android:layout_marginTop="58dp"
         android:layout_marginEnd="155dp"
-        android:text="TextView"
+        android:text="welcome"
+        android:textSize="33sp"
+        android:typeface="monospace"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
