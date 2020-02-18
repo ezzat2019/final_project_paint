@@ -36,6 +36,7 @@ public class Main2Activity extends AppCompatActivity {
 
     // todo aliaa t1
     // اعملى كذا اى حاجه
+    private int x=20;
     private ImageView imageView;
     private TextView textView;
 

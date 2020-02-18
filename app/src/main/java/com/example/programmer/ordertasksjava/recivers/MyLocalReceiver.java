@@ -8,9 +8,7 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 public class MyLocalReceiver extends BroadcastReceiver {
 
-// todo ezzat
-    // غير اللوجن ده وخليه رجيست
-    //
+
 
     @Override
     public void onReceive(Context context, Intent intent) {
